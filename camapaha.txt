@@ -2,7 +2,7 @@
 Nome
 Telefone
 e-mail
-
+Idade
 
 ID_Produto
 Nome_Produto
@@ -16,4 +16,6 @@ Valor_Desconto
 Tem_Desconto
 Quantidade_Itens
 
+Cliente +=60 anos tem desconto de 10%
+Cliente +=80 anos tem desconto de 20%
 

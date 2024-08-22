@@ -1,0 +1,24 @@
+﻿001
+Jhon Duo
+00000-0000
+johndoe@example.come-mail 
+50
+
+0001
+Arroz
+23,00
+5
+10
+
+0002
+Feijao
+6,00
+1
+30
+
+410
+10%
+sim
+40
+
+
