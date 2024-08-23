@@ -1,7 +1,7 @@
 ﻿001
 Jhon Duo
 00000-0000
-johndoe@example.come-mail 
+johndoe@example.com
 69
 
 0001
@@ -17,8 +17,6 @@ Feijao
 30
 
 410
-10%
-sim
 40
 
 
